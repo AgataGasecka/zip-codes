@@ -1,0 +1,11 @@
+C:\Users\AGGA\Documents\Visual Studio 2017\Projects\ConsoleApp5\ConsoleApp5\bin\Debug\ConsoleApp5.exe.config
+C:\Users\AGGA\Documents\Visual Studio 2017\Projects\ConsoleApp5\ConsoleApp5\bin\Debug\ConsoleApp5.exe
+C:\Users\AGGA\Documents\Visual Studio 2017\Projects\ConsoleApp5\ConsoleApp5\bin\Debug\ConsoleApp5.pdb
+C:\Users\AGGA\Documents\Visual Studio 2017\Projects\ConsoleApp5\ConsoleApp5\bin\Debug\LinqToExcel.dll
+C:\Users\AGGA\Documents\Visual Studio 2017\Projects\ConsoleApp5\ConsoleApp5\bin\Debug\Remotion.Data.Linq.dll
+C:\Users\AGGA\Documents\Visual Studio 2017\Projects\ConsoleApp5\ConsoleApp5\bin\Debug\Remotion.dll
+C:\Users\AGGA\Documents\Visual Studio 2017\Projects\ConsoleApp5\ConsoleApp5\bin\Debug\Remotion.Interfaces.dll
+C:\Users\AGGA\Documents\Visual Studio 2017\Projects\ConsoleApp5\ConsoleApp5\bin\Debug\LinqToExcel.xml
+C:\Users\AGGA\Documents\Visual Studio 2017\Projects\ConsoleApp5\ConsoleApp5\obj\Debug\ConsoleApp5.csprojResolveAssemblyReference.cache
+C:\Users\AGGA\Documents\Visual Studio 2017\Projects\ConsoleApp5\ConsoleApp5\obj\Debug\ConsoleApp5.exe
+C:\Users\AGGA\Documents\Visual Studio 2017\Projects\ConsoleApp5\ConsoleApp5\obj\Debug\ConsoleApp5.pdb
